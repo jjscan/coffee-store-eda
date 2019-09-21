@@ -1,4 +1,4 @@
-# todaycode-hands-on
+# coffee-store-eda hands-on
 
 1. Colab 소개 및 활용법
     * https://colab.research.google.com/notebooks/welcome.ipynb
