@@ -13,4 +13,4 @@
 1. 공공데이터를 통한 스타벅스, 이디야 매장 위치 분석하기
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/todaycode-hands-on/blob/master/coffee-store-eda.ipynb)
 1. 공공데이터를 통한 스타벅스, 이디야 매장 위치 분석하기 - Solution
-    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jjscan/coffee-store-eda/coffee-store-eda-output.ipynb)
+    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jjscan/coffee-store-eda/blob/master/coffee-store-eda-output.ipynb)
